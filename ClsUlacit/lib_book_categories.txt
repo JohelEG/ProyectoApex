@@ -1,0 +1,11 @@
+CAT_ID,CAT_DESCRIPTION
+1,Action and Adventure
+2,Art, Architecture and Photography
+3,Business
+4,Diet, Health and Fitness
+5,Drama
+6,Horror
+7,Mystery and Crime
+8,Romance
+9,Science Fiction and Fantasy
+10,Science and Technology

@@ -1,0 +1,6 @@
+AUT_ID,AUT_FIRST_NAME,AUT_LAST_NAME,AUT_DATE_DOB,AUT_GENDER,AUT_CONTACT,AUT_OTHER_DETAILS
+1,Clarisa,Maman,,F,111-222-3333,http://www.introduccionaoracleapex5.com 
+3,Suze,Orman,,F,123-123-1234,http://www.suzeorman.com
+5,Steve,Feuerstein,,M,123-567-8888,http://www.stevenfeuerstein.com/
+2,Nicholas,Sparks,,M,111-456-9856, http://www.nicholassparks.com/ 
+4,Danielle,Steel,,F,456-456-9999,http://daniellesteel.com

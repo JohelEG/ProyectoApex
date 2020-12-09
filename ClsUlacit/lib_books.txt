@@ -1,0 +1,7 @@
+﻿BOOK_ID,BOOK_AUT_ID,BOOK_CAT_ID,BOOK_ISBN,BOOK_PUBLISHED_DATE,BOOK_TITLE,BOOK_PRICE,BOOK_DESCRIPTION,BOOK_MIMETYPE,BOOK_FILENAME,BOOK_IMAGE_LAST_UPDATE
+1,1,10,9781515284185,19/12/2015,Introduccion a Oracle APEX 5.0,40,Una guia practica para usuarios de nivel inicial e intermedio para desarrollar aplicaciones web profesionales usando Oracle Application Express.,image/jpeg,book01.jpg,,
+2,1,10,97811523381166,21/01/2016,Integracion Sin Costo de JasperReports en Oracle APEX 5.0,10,Una guía práctica para aprender a crear reportes personalizados listos para imprimir usando el kit en Oracle APEX 5.0.,image/jpeg,book02.jpg,,
+3,2,8,0553816713,05/07/2004,The Notebook,8,"Set amid the austere beauty of the North Carolina coast, The Notebook begins with the story of Noah Calhoun a rural Southerner recently returned from the Second World War.",image/jpeg,book03.jpg,,
+4,3,3,0812982134,10/01/2012,The Money Class,15,How to Stand in Your Truth and Create the Future You Deserve.,image/jpeg,book04.jpg,,
+5,4,8,0385340230,30/10/1997,Amazing Grace,13,"On a warm May night in San Francisco, the Ritz-Carlton ballroom shimmers as a glittering celebrity-studded crowd gathers for a charity dinner dance.",image/jpeg,book05.jpg,,
+6,5,10,1449324452,16/02/2014,Oracle PL/SQL Programming,55,Considered the best Oracle PL/SQL programming guide by the Oracle community.,image/jpeg,book06.jpg,,
